@@ -22,7 +22,7 @@ HemeBiotech Analytics est une application Java conçue pour analyser les donnée
 Clonez le dépôt sur votre machine locale :
 
 ```bash
-git clone https://github.com/Xenophee/Dassonville-Perrine-debug-Java.git
+git clone https://github.com/Xenophee/Heme-Biotech.git
 ```
 
 Vous pouvez lancer le programme dans votre IDE.
